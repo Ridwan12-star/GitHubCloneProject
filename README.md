@@ -1,1 +1,1 @@
-This is the description of my repo
+This repository is for practicing Git branching and merging.
